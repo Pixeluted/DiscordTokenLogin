@@ -4,7 +4,7 @@
 // @version      1.0
 // @description  Allows you to login with user tokens!
 // @author       Pixeluted
-// @match        https://discord.com/login
+// @match        https://discord.com/login*
 // @grant        none
 // ==/UserScript==
 
